@@ -20,7 +20,8 @@ collection: portfolio
 <img src="/images/p_by_carrier_monthly2030.png" width="500"  alt="capacity">
 
 
-<img src="/images/cp_by_carrier_monthly2030tide.png" width="500"  alt="capacity">
+
+<img src="/images/p_by_carrier_monthly2030tide.png" width="500"  alt="capacity">
 
 
 <img src="/images/output.png" width="500"  alt="capacity">
