@@ -12,7 +12,7 @@ My name is Zhiyu Zhang, and I hold an MSc degree in Environmental Data Science a
 
 **I am looking for PhD position for 2024 fall and research assistant of Spring 2024 as well. Feel free to email me for potential opportunities.**
 
-You can find my CV here: [Zhiyu's Curriculum Vitae](../assets/CV_Zhangzhiyu.pdf).
+You can find my CV here: [Zhiyu's Curriculum Vitae](../assets/CV_ZhangZhiyu.pdf).
 
 [Email](zhiyu.zhang22@imperial.ac.uk) / [Github](https://github.com/zhizhiyuyu) 
 
