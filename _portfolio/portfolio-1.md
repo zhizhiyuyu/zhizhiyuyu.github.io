@@ -4,5 +4,5 @@ excerpt: "The project's objective is to evaluate and quantify the implications a
 collection: portfolio
 ---
 
-[capacity](/images/capacity.png)
+![capacity](/images/capacity.png)
 
