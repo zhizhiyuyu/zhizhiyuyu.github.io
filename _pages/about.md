@@ -14,5 +14,5 @@ My name is Zhiyu Zhang, and I hold an MSc degree in Environmental Data Science a
 
 Here is my CV: [Zhiyu's Curriculum Vitae](../assets/CV_ZhangZhiyu.pdf).
 
-[Email](zhiyu.zhang22@imperial.ac.uk) / [Github](https://github.com/zhizhiyuyu) 
+[Email](mailto:zhiyu.zhang22@imperial.ac.uk) / [Github](https://github.com/zhizhiyuyu) 
 
